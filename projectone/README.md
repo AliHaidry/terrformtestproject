@@ -1,0 +1,1 @@
+key pair file is to be created through aws console.
